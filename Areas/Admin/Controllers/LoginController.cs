@@ -24,7 +24,7 @@ namespace DemoWeb.Areas.Admin.Controllers
             if (ModelState.IsValid)
             {
                 var user = new UserDao();
-                var result = user.login(loginModal.username, loginModal.password);
+                var result = user.login(loginModal.username,Common.GetMD5(loginModal.password));
                 if(result == 1)
                 {
                     //ModelState.AddModelError("","Dang Nhap Thanh Cong");
