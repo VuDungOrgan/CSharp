@@ -1,4 +1,6 @@
 ﻿using DemoWeb.Areas.Admin.Models;
+using Microsoft.Owin.Security;
+using Microsoft.Owin.Security.OpenIdConnect;
 using Models_SVOnline;
 using Models_SVOnline.DAO;
 using System;
@@ -25,10 +27,12 @@ namespace DemoWeb.Areas.Admin.Controllers
             {
                 var user = new UserDao();
                 var result = user.login(loginModal.username,Common.GetMD5(loginModal.password));
-                if(result == 1)
+                if(result != null)
                 {
+                    loginModal.username = result.Username;
+                    loginModal.fullname = result.FullName;
                     //ModelState.AddModelError("","Dang Nhap Thanh Cong");
-                    Session.Add(Contants.USER_SESSION,loginModal.username);
+                    Session.Add(Contants.USER_SESSION,loginModal);
                     return RedirectToAction("Index","Home");
                 }
                 else
@@ -37,6 +41,21 @@ namespace DemoWeb.Areas.Admin.Controllers
                 }
             }
             return View("Index");
+        }
+
+        public void LoginOutlook()
+        {
+            if (!Request.IsAuthenticated)
+            {
+                HttpContext.GetOwinContext().Authentication.Challenge(
+                    new AuthenticationProperties { RedirectUri = "/Admin/Home/" },
+                    OpenIdConnectAuthenticationDefaults.AuthenticationType);
+                new HttpUnauthorizedResult();
+            }
+            else
+            {
+          
+            }
         }
     }
 }
