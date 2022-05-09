@@ -33,9 +33,9 @@ namespace CSharpOOP_QuanLyBanVeMayBay
             ngaybay = "";
             giave = 0;
         }
-        public void nhap()
+        public void nhapVe()
         {
-            Console.Write("Nhap vao Ten CB: ");
+            Console.Write("\nNhap vao Ten CB: ");
             tenchuyen = Console.ReadLine();
             Console.Write("Nhap vao Ngay Bay: ");
             ngaybay = Console.ReadLine();
@@ -43,11 +43,11 @@ namespace CSharpOOP_QuanLyBanVeMayBay
             giave = Convert.ToInt32(Console.ReadLine());
         }
 
-        public void xuat()
+        public void xuatVe()
         {
             Console.WriteLine("Ten CB: "+tenchuyen);
             Console.WriteLine("Ngay Bay: "+ngaybay);
-            Console.WriteLine("Gia ve: "+giave);
+            Console.WriteLine("Gia ve: {0}\n",giave);
         }
 
 
@@ -123,29 +123,38 @@ namespace CSharpOOP_QuanLyBanVeMayBay
             nhap();
             Console.Write("Nhap vao so luong ve hanh khach da mua: ");
             soluong = Convert.ToInt32(Console.ReadLine());
+            Vemaybay = new Vemaybay[soluong];
             for (int i = 0; i < soluong; i++) 
             {
-                Vemaybay[i].nhap();
+                Vemaybay[i] = new Vemaybay();
+                Vemaybay[i].nhapVe();
                 tongtien += Vemaybay[i].getGiave;
             }
         }
 
         public void xuatKhach()
         {
+            Console.WriteLine("------------------------");
             Console.WriteLine("THONG TIN KHACH HANG: ");
             xuat();
             Console.WriteLine("THONG TIN CHUYEN BAY: ");
             for (int i = 0; i < soluong; i++)
             {
-                Vemaybay[i].xuat();
+                Vemaybay[i].xuatVe();
             }
             Console.Write("Tong Tien: {0}\n",tongtien);
+            
         }
 
         public static bool operator < (HanhKhach obj1, HanhKhach obj2)
         {
             if (obj1.tongtien<obj2.tongtien) return true;
              else return false;
+        }
+        public static bool operator >(HanhKhach obj1, HanhKhach obj2)
+        {
+            if (obj1.tongtien > obj2.tongtien) return true;
+            else return false;
         }
     }
 
@@ -168,8 +177,22 @@ namespace CSharpOOP_QuanLyBanVeMayBay
 
         static void Main(string[] args)
         {
-            Vemaybay v1 = new Vemaybay("HN - HP","20-10-2022",3000000);
-            v1.xuat();
+            int soLuongHK;
+            Console.Write("Nhap vao so luong Hanh khach: ");
+            soLuongHK = Convert.ToInt32(Console.ReadLine());
+            HanhKhach[] HK = new HanhKhach[soLuongHK];
+            for (int i=0 ; i < soLuongHK; i++)
+            {
+                Console.Write("Nhap vao hanh khach thu {0}:\n", i + 1);
+                HK[i] = new HanhKhach();
+                HK[i].nhapKhach();
+            }
+            Bubblesort(HK, soLuongHK);
+            for (int i = 0; i < soLuongHK; i++)
+            {
+                HK[i].xuatKhach();
+                Console.WriteLine("--------------------------------------");
+            }
             Console.ReadKey();
         }
     }
