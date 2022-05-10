@@ -51,15 +51,56 @@ namespace CSharp_Mang
                 }
             }
             int maxXH = ptXH[0];
+            int csMax=0;
             for (int i = 1; i < 10; i++)
             {
                 if (ptXH[i] > maxXH)
                 {
-                    maxXH= i;
+                    csMax= i;
                 }
 
             }
-            Console.Write("Phan tu xuat hien nhieu nhat la: "+arr_109[maxXH-1]);
+            Console.Write("Phan tu xuat hien nhieu nhat la: " + arr_109[csMax]);
+
+
+            for (int i = 0; i < 9; i++)
+            {
+                for(int j = i + 1; j < 10; j++)
+                {
+                    if (arr_109[i] > arr_109[j])
+                    {
+                        int t = arr_109[i];
+                        arr_109[i] = arr_109[j];
+                        arr_109[j] = t;
+                    }
+                }
+            }
+
+            Console.WriteLine("\nMang sau khi sap xem tang dan: ");
+            for (int i = 0; i < 10; i++)
+            {
+                Console.Write(arr_109[i]+" ");
+            }
+
+
+            for (int i = 0; i < 9; i++)
+            {
+                for (int j = i + 1; j < 10; j++)
+                {
+                    if (arr_109[i] < arr_109[j])
+                    {
+                        int t = arr_109[i];
+                        arr_109[i] = arr_109[j];
+                        arr_109[j] = t;
+                    }
+                }
+            }
+
+            Console.WriteLine("\nMang sau khi sap giam dan: ");
+            for (int i = 0; i < 10; i++)
+            {
+                Console.Write(arr_109[i] + " ");
+            }
 
             Console.ReadKey();
         }
