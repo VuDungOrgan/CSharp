@@ -13,14 +13,12 @@ namespace DemoWeb.Areas.Admin.Controllers
         public ActionResult Index()
         {
             if(Session[Contants.USER_SESSION] == null )
-                return RedirectToAction("Index", "Login");
+                return RedirectToAction("Index","Login");
             return View();
         }
         public ActionResult Logout()
-        {
-            
+        {           
                 Session[Contants.USER_SESSION] = null;
-           
             return RedirectToAction("Index","Login");
         }
     }
