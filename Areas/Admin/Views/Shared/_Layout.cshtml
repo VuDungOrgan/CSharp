@@ -270,11 +270,20 @@
                             @RenderSection("Header", required: true)
                         </b>
                     </header>
-                </section>
-                <div class="panel-body">
-                    @RenderBody()
-                </div>
+                    <div class="panel-body">
+                        @if (TempData["AlertMessage"] != null)
+                        {
+                            <div class="form-group">
+                                <div id="AlertBox" class="alert @TempData["AlertType"] role="alert">
+                                    @TempData["AlertMessage"]
+                                </div>
+                            </div>
+                        }
+                        @RenderBody()
+                    </div>
 
+                </section>
+                
 
             </section>
         </section>
@@ -323,6 +332,11 @@
     <script src="~/Asset/Admin/js/jquery.customSelect.min.js"></script>
     <!--common script init for all pages-->
     <script src="~/Asset/Admin/js/scripts.js"></script>
+    <script>
+        $(function () {
+            $("AlertBox").delay("2000").slideUp("1000");
+        });
+    </script>
     <!--script for this page-->
 </body>
 </html>

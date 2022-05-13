@@ -11,16 +11,20 @@
 
 <div class="row">
     <div class="form-group col-lg-11">
+        <input class="btn btn-default" type="button" value="Quay lại trang chủ" onclick="location.href='@Url.Action("Index", "Home")'" />
         @Html.ActionLink("Tạo mới người dùng", "Create", "User", new { @class = "btn btn-danger" })
     </div>
+@using (Html.BeginForm("Index","User",FormMethod.Post))
+{
     <div class=" row form-group col-lg-12">
         <div class="col-md-6">
-            <input type="text" placeholder="Nhập từ khóa tìm kiếm..." value="@ViewBag.SearchKeyword" class="form-control" />
+            <input type="text" name="keyword" placeholder="Nhập từ khóa tìm kiếm..." value="@ViewBag.SearchKeyword" class="form-control" />
         </div>
         <div class="col-md-3">
             <input type="submit" value="Tìm kiếm" class="btn btn-success" />
         </div>
     </div>
+}
 </div>
     <table class="table table-striped table-hover table-bordered">
         <thead>
