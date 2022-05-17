@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\BTCB2_B13\BTCB2_B13\bin\Debug\BTCB2_B13.exe.config
+C:\Users\ASUS\source\repos\BTCB2_B13\BTCB2_B13\bin\Debug\BTCB2_B13.exe
+C:\Users\ASUS\source\repos\BTCB2_B13\BTCB2_B13\bin\Debug\BTCB2_B13.pdb
+C:\Users\ASUS\source\repos\BTCB2_B13\BTCB2_B13\obj\Debug\BTCB2_B13.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BTCB2_B13\BTCB2_B13\obj\Debug\BTCB2_B13.exe
+C:\Users\ASUS\source\repos\BTCB2_B13\BTCB2_B13\obj\Debug\BTCB2_B13.pdb

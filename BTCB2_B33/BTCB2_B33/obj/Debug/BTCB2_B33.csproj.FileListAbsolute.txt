@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\BTCB2_B33\BTCB2_B33\bin\Debug\BTCB2_B33.exe.config
+C:\Users\ASUS\source\repos\BTCB2_B33\BTCB2_B33\bin\Debug\BTCB2_B33.exe
+C:\Users\ASUS\source\repos\BTCB2_B33\BTCB2_B33\bin\Debug\BTCB2_B33.pdb
+C:\Users\ASUS\source\repos\BTCB2_B33\BTCB2_B33\obj\Debug\BTCB2_B33.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\BTCB2_B33\BTCB2_B33\obj\Debug\BTCB2_B33.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BTCB2_B33\BTCB2_B33\obj\Debug\BTCB2_B33.exe
+C:\Users\ASUS\source\repos\BTCB2_B33\BTCB2_B33\obj\Debug\BTCB2_B33.pdb

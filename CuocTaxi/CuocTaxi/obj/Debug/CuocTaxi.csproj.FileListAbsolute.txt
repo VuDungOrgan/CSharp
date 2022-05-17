@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\CuocTaxi\CuocTaxi\bin\Debug\CuocTaxi.exe.config
+C:\Users\ASUS\source\repos\CuocTaxi\CuocTaxi\bin\Debug\CuocTaxi.exe
+C:\Users\ASUS\source\repos\CuocTaxi\CuocTaxi\bin\Debug\CuocTaxi.pdb
+C:\Users\ASUS\source\repos\CuocTaxi\CuocTaxi\obj\Debug\CuocTaxi.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\CuocTaxi\CuocTaxi\obj\Debug\CuocTaxi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CuocTaxi\CuocTaxi\obj\Debug\CuocTaxi.exe
+C:\Users\ASUS\source\repos\CuocTaxi\CuocTaxi\obj\Debug\CuocTaxi.pdb

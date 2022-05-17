@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\BTCB_60\BTCB_60\bin\Debug\BTCB_60.exe.config
+C:\Users\ASUS\source\repos\BTCB_60\BTCB_60\bin\Debug\BTCB_60.exe
+C:\Users\ASUS\source\repos\BTCB_60\BTCB_60\bin\Debug\BTCB_60.pdb
+C:\Users\ASUS\source\repos\BTCB_60\BTCB_60\obj\Debug\BTCB_60.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\BTCB_60\BTCB_60\obj\Debug\BTCB_60.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BTCB_60\BTCB_60\obj\Debug\BTCB_60.exe
+C:\Users\ASUS\source\repos\BTCB_60\BTCB_60\obj\Debug\BTCB_60.pdb

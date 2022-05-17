@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\BTCB2_B21\BTCB2_B21\bin\Debug\BTCB2_B21.exe.config
+C:\Users\ASUS\source\repos\BTCB2_B21\BTCB2_B21\bin\Debug\BTCB2_B21.exe
+C:\Users\ASUS\source\repos\BTCB2_B21\BTCB2_B21\bin\Debug\BTCB2_B21.pdb
+C:\Users\ASUS\source\repos\BTCB2_B21\BTCB2_B21\obj\Debug\BTCB2_B21.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\BTCB2_B21\BTCB2_B21\obj\Debug\BTCB2_B21.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BTCB2_B21\BTCB2_B21\obj\Debug\BTCB2_B21.exe
+C:\Users\ASUS\source\repos\BTCB2_B21\BTCB2_B21\obj\Debug\BTCB2_B21.pdb

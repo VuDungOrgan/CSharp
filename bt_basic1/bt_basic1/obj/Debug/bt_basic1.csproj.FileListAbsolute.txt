@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\bt_basic1\bt_basic1\bin\Debug\bt_basic1.exe.config
+C:\Users\ASUS\source\repos\bt_basic1\bt_basic1\bin\Debug\bt_basic1.exe
+C:\Users\ASUS\source\repos\bt_basic1\bt_basic1\bin\Debug\bt_basic1.pdb
+C:\Users\ASUS\source\repos\bt_basic1\bt_basic1\obj\Debug\bt_basic1.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\bt_basic1\bt_basic1\obj\Debug\bt_basic1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\bt_basic1\bt_basic1\obj\Debug\bt_basic1.exe
+C:\Users\ASUS\source\repos\bt_basic1\bt_basic1\obj\Debug\bt_basic1.pdb

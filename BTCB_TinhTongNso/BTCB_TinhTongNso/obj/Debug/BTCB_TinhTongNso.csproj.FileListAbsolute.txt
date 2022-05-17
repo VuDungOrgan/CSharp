@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\BTCB_TinhTongNso\BTCB_TinhTongNso\bin\Debug\BTCB_TinhTongNso.exe.config
+C:\Users\ASUS\source\repos\BTCB_TinhTongNso\BTCB_TinhTongNso\bin\Debug\BTCB_TinhTongNso.exe
+C:\Users\ASUS\source\repos\BTCB_TinhTongNso\BTCB_TinhTongNso\bin\Debug\BTCB_TinhTongNso.pdb
+C:\Users\ASUS\source\repos\BTCB_TinhTongNso\BTCB_TinhTongNso\obj\Debug\BTCB_TinhTongNso.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\BTCB_TinhTongNso\BTCB_TinhTongNso\obj\Debug\BTCB_TinhTongNso.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BTCB_TinhTongNso\BTCB_TinhTongNso\obj\Debug\BTCB_TinhTongNso.exe
+C:\Users\ASUS\source\repos\BTCB_TinhTongNso\BTCB_TinhTongNso\obj\Debug\BTCB_TinhTongNso.pdb

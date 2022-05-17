@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\BTCB2_B22\BTCB2_B22\bin\Debug\BTCB2_B22.exe.config
+C:\Users\ASUS\source\repos\BTCB2_B22\BTCB2_B22\bin\Debug\BTCB2_B22.exe
+C:\Users\ASUS\source\repos\BTCB2_B22\BTCB2_B22\bin\Debug\BTCB2_B22.pdb
+C:\Users\ASUS\source\repos\BTCB2_B22\BTCB2_B22\obj\Debug\BTCB2_B22.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\BTCB2_B22\BTCB2_B22\obj\Debug\BTCB2_B22.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BTCB2_B22\BTCB2_B22\obj\Debug\BTCB2_B22.exe
+C:\Users\ASUS\source\repos\BTCB2_B22\BTCB2_B22\obj\Debug\BTCB2_B22.pdb
