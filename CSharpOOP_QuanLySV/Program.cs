@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -70,19 +71,21 @@ namespace CSharpOOP_QuanLySV
             int soSV;
             Console.Write("Nhap vao so sv: ");
             soSV = Convert.ToInt32(Console.ReadLine());
-            Student[] list_SV = new Student[soSV];
+            ArrayList student_list = new ArrayList(soSV);
 
             //Nhap dssv
-            for (int i = 0; i< soSV; i++)
-            {
-                list_SV[i] = new Student();
-                list_SV[i].nhap();
-            }
-
-            //Xuat dssv
             for (int i = 0; i < soSV; i++)
             {
-                list_SV[i].xuat();
+                Console.Write("\nNhap vao sinh vien thu {0}:\n",i+1);
+                Student stu = new Student();
+                stu.nhap();
+                student_list.Add(stu);
+            }
+
+            //Xuat Dssv
+            foreach(Student item in student_list)
+            {
+                item.xuat();
             }
 
             Console.ReadKey();
