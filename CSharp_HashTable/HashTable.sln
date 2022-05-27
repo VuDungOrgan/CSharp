@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTableTrongCSharp", "HashTable\HashTableTrongCSharp.csproj", "{496CCB9D-F75A-4051-954A-3B4A57994EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{496CCB9D-F75A-4051-954A-3B4A57994EEB}.Debug|x86.ActiveCfg = Debug|x86
+		{496CCB9D-F75A-4051-954A-3B4A57994EEB}.Debug|x86.Build.0 = Debug|x86
+		{496CCB9D-F75A-4051-954A-3B4A57994EEB}.Release|x86.ActiveCfg = Release|x86
+		{496CCB9D-F75A-4051-954A-3B4A57994EEB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

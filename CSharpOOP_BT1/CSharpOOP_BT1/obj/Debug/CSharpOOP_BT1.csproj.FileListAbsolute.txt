@@ -1,0 +1,7 @@
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_BT1\CSharpOOP_BT1\bin\Debug\CSharpOOP_BT1.exe.config
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_BT1\CSharpOOP_BT1\bin\Debug\CSharpOOP_BT1.exe
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_BT1\CSharpOOP_BT1\bin\Debug\CSharpOOP_BT1.pdb
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_BT1\CSharpOOP_BT1\obj\Debug\CSharpOOP_BT1.csprojAssemblyReference.cache
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_BT1\CSharpOOP_BT1\obj\Debug\CSharpOOP_BT1.csproj.CoreCompileInputs.cache
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_BT1\CSharpOOP_BT1\obj\Debug\CSharpOOP_BT1.exe
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_BT1\CSharpOOP_BT1\obj\Debug\CSharpOOP_BT1.pdb

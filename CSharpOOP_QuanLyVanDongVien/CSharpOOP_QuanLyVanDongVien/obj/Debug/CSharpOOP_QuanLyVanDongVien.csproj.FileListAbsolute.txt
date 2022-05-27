@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\CSharpOOP_QuanLyVanDongVien\CSharpOOP_QuanLyVanDongVien\bin\Debug\CSharpOOP_QuanLyVanDongVien.exe.config
+C:\Users\ASUS\source\repos\CSharpOOP_QuanLyVanDongVien\CSharpOOP_QuanLyVanDongVien\bin\Debug\CSharpOOP_QuanLyVanDongVien.exe
+C:\Users\ASUS\source\repos\CSharpOOP_QuanLyVanDongVien\CSharpOOP_QuanLyVanDongVien\bin\Debug\CSharpOOP_QuanLyVanDongVien.pdb
+C:\Users\ASUS\source\repos\CSharpOOP_QuanLyVanDongVien\CSharpOOP_QuanLyVanDongVien\obj\Debug\CSharpOOP_QuanLyVanDongVien.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\CSharpOOP_QuanLyVanDongVien\CSharpOOP_QuanLyVanDongVien\obj\Debug\CSharpOOP_QuanLyVanDongVien.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CSharpOOP_QuanLyVanDongVien\CSharpOOP_QuanLyVanDongVien\obj\Debug\CSharpOOP_QuanLyVanDongVien.exe
+C:\Users\ASUS\source\repos\CSharpOOP_QuanLyVanDongVien\CSharpOOP_QuanLyVanDongVien\obj\Debug\CSharpOOP_QuanLyVanDongVien.pdb

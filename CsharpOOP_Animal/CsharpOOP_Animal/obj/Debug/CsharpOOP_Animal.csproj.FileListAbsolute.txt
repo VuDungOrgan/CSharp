@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\CsharpOOP_Animal\CsharpOOP_Animal\bin\Debug\CsharpOOP_Animal.exe.config
+C:\Users\ASUS\source\repos\CsharpOOP_Animal\CsharpOOP_Animal\bin\Debug\CsharpOOP_Animal.exe
+C:\Users\ASUS\source\repos\CsharpOOP_Animal\CsharpOOP_Animal\bin\Debug\CsharpOOP_Animal.pdb
+C:\Users\ASUS\source\repos\CsharpOOP_Animal\CsharpOOP_Animal\obj\Debug\CsharpOOP_Animal.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CsharpOOP_Animal\CsharpOOP_Animal\obj\Debug\CsharpOOP_Animal.exe
+C:\Users\ASUS\source\repos\CsharpOOP_Animal\CsharpOOP_Animal\obj\Debug\CsharpOOP_Animal.pdb

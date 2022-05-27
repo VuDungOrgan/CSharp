@@ -1,0 +1,7 @@
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_QuanLySV\CSharpOOP_QuanLySV\bin\Debug\CSharpOOP_QuanLySV.exe.config
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_QuanLySV\CSharpOOP_QuanLySV\bin\Debug\CSharpOOP_QuanLySV.exe
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_QuanLySV\CSharpOOP_QuanLySV\bin\Debug\CSharpOOP_QuanLySV.pdb
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_QuanLySV\CSharpOOP_QuanLySV\obj\Debug\CSharpOOP_QuanLySV.csprojAssemblyReference.cache
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_QuanLySV\CSharpOOP_QuanLySV\obj\Debug\CSharpOOP_QuanLySV.csproj.CoreCompileInputs.cache
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_QuanLySV\CSharpOOP_QuanLySV\obj\Debug\CSharpOOP_QuanLySV.exe
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_QuanLySV\CSharpOOP_QuanLySV\obj\Debug\CSharpOOP_QuanLySV.pdb

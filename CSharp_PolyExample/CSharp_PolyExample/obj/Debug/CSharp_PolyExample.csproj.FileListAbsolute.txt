@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\CSharp_PolyExample\CSharp_PolyExample\bin\Debug\CSharp_PolyExample.exe.config
+C:\Users\ASUS\source\repos\CSharp_PolyExample\CSharp_PolyExample\bin\Debug\CSharp_PolyExample.exe
+C:\Users\ASUS\source\repos\CSharp_PolyExample\CSharp_PolyExample\bin\Debug\CSharp_PolyExample.pdb
+C:\Users\ASUS\source\repos\CSharp_PolyExample\CSharp_PolyExample\obj\Debug\CSharp_PolyExample.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\CSharp_PolyExample\CSharp_PolyExample\obj\Debug\CSharp_PolyExample.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CSharp_PolyExample\CSharp_PolyExample\obj\Debug\CSharp_PolyExample.exe
+C:\Users\ASUS\source\repos\CSharp_PolyExample\CSharp_PolyExample\obj\Debug\CSharp_PolyExample.pdb

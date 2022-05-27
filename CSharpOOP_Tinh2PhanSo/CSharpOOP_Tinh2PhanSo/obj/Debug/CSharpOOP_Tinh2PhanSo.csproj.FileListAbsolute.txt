@@ -1,0 +1,7 @@
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_Tinh2PhanSo\CSharpOOP_Tinh2PhanSo\bin\Debug\CSharpOOP_Tinh2PhanSo.exe.config
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_Tinh2PhanSo\CSharpOOP_Tinh2PhanSo\bin\Debug\CSharpOOP_Tinh2PhanSo.exe
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_Tinh2PhanSo\CSharpOOP_Tinh2PhanSo\bin\Debug\CSharpOOP_Tinh2PhanSo.pdb
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_Tinh2PhanSo\CSharpOOP_Tinh2PhanSo\obj\Debug\CSharpOOP_Tinh2PhanSo.csprojAssemblyReference.cache
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_Tinh2PhanSo\CSharpOOP_Tinh2PhanSo\obj\Debug\CSharpOOP_Tinh2PhanSo.csproj.CoreCompileInputs.cache
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_Tinh2PhanSo\CSharpOOP_Tinh2PhanSo\obj\Debug\CSharpOOP_Tinh2PhanSo.exe
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_Tinh2PhanSo\CSharpOOP_Tinh2PhanSo\obj\Debug\CSharpOOP_Tinh2PhanSo.pdb
