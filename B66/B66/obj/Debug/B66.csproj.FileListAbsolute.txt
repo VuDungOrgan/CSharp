@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\B66\B66\bin\Debug\B66.exe.config
+C:\Users\ASUS\source\repos\B66\B66\bin\Debug\B66.exe
+C:\Users\ASUS\source\repos\B66\B66\bin\Debug\B66.pdb
+C:\Users\ASUS\source\repos\B66\B66\obj\Debug\B66.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\B66\B66\obj\Debug\B66.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\B66\B66\obj\Debug\B66.exe
+C:\Users\ASUS\source\repos\B66\B66\obj\Debug\B66.pdb
