@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1831
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpOOP_QuanLyDanCu", "CSharpOOP_QuanLyDanCu\CSharpOOP_QuanLyDanCu.csproj", "{ECA0F1C3-6E3A-4FD0-8FF6-0D8819040AEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECA0F1C3-6E3A-4FD0-8FF6-0D8819040AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA0F1C3-6E3A-4FD0-8FF6-0D8819040AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA0F1C3-6E3A-4FD0-8FF6-0D8819040AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA0F1C3-6E3A-4FD0-8FF6-0D8819040AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E766EE3-3542-4FFB-BFC7-17A6A9F196E2}
+	EndGlobalSection
+EndGlobal
