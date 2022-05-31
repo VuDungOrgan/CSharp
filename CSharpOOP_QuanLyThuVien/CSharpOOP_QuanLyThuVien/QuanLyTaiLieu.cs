@@ -18,7 +18,15 @@ namespace CSharpOOP_QuanLyThuVien
 
         public void themTL(TaiLieu taiLieu)
         {
-            dsTaiLieu.Add(taiLieu);
+            if(dsTaiLieu != null && dsTaiLieu.Any(x => x.Id == taiLieu.Id))
+            {
+                Console.WriteLine("Tai lieu voi ID \"{0}\" da bi trung ! vui long nhap lai ",taiLieu.Id);
+            }
+            else
+            {
+                dsTaiLieu.Add(taiLieu);
+            }
+           
         }
 
         public void xoaTL(string id)

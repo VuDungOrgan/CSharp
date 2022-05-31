@@ -13,7 +13,7 @@ namespace CSharpOOP_QuanLyThuVien
             QuanLyTaiLieu quanLyTaiLieu = new QuanLyTaiLieu();
             TaiLieu taiLieu1 = new Sach("1", "hanoi", 1, "vudung", 2);
             TaiLieu taiLieu2 = new Bao("2","danang",2,"3");
-            TaiLieu taiLieu3 = new TapChi("1", "hanoi", 1, "vudung", 2);
+            TaiLieu taiLieu3 = new TapChi("3", "hanoi", 1, "vudung", 2);
             //Sach taiLieu = new Sach();
             //taiLieu.nhap();
             quanLyTaiLieu.themTL(taiLieu1);
