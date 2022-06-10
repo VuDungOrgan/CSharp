@@ -1,0 +1,7 @@
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_QuanLyNhanVien\CSharpOOP_QuanLyNhanVien\bin\Debug\CSharpOOP_QuanLyNhanVien.exe.config
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_QuanLyNhanVien\CSharpOOP_QuanLyNhanVien\bin\Debug\CSharpOOP_QuanLyNhanVien.exe
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_QuanLyNhanVien\CSharpOOP_QuanLyNhanVien\bin\Debug\CSharpOOP_QuanLyNhanVien.pdb
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_QuanLyNhanVien\CSharpOOP_QuanLyNhanVien\obj\Debug\CSharpOOP_QuanLyNhanVien.csprojAssemblyReference.cache
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_QuanLyNhanVien\CSharpOOP_QuanLyNhanVien\obj\Debug\CSharpOOP_QuanLyNhanVien.csproj.CoreCompileInputs.cache
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_QuanLyNhanVien\CSharpOOP_QuanLyNhanVien\obj\Debug\CSharpOOP_QuanLyNhanVien.exe
+D:\C#\BÀI TẬP\Bài Tập OOP\CSharpOOP_QuanLyNhanVien\CSharpOOP_QuanLyNhanVien\obj\Debug\CSharpOOP_QuanLyNhanVien.pdb
